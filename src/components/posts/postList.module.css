@@ -1,0 +1,42 @@
+textarea {
+  height: 16vh !important;
+}
+
+/* .newPost{
+  background-color: #C1B8D2;
+} */
+
+.post {
+  /*  width: 15vw; */
+  min-height: 35vh;
+  color: white;
+  background-color: #9780a6;
+  /* background-color: #D0ACB8; */
+  box-shadow: 0px 0px 10px #b09cbe !important;
+  border: 1px solid rgba(242, 237, 237, 0.838);
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: #9780a6 !important;
+  box-shadow: 0px 0px 4px #b09cbe !important;
+}
+
+main {
+  position: relative !important;
+  height: 85.5vh;
+  width: 98vw;
+}
+
+.modalPosition {
+  position: absolute !important;
+  width: 98vw;
+  height: 100%;
+  z-index: 10;
+  background-color: #634b74cb;
+}
+
+.postsPosition {
+  position: absolute !important;
+  z-index: -1;
+}

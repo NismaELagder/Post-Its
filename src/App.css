@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap");
+
+body {
+  background-color: #5d3c73 !important;
+}
+
+Header {
+  font-family: "Noto Serif", serif !important;
+  line-height: 0.3 !important;
+}
+
+Header span {
+  font-family: "Dosis", sans-serif;
+}
